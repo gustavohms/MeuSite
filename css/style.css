@@ -1,0 +1,43 @@
+*{
+	
+	margin-left: : 0px;
+	color: black;
+	background-color: #E6EBFD;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.logo{
+	margin-bottom: 0px;
+	
+
+}
+
+.img-fluid{
+	margin-top: 10px;
+}
+
+.texto1{
+	margin-left: 40px;
+}
+
+#inicio *{
+	background-color: #2B318C;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+#sobre * {
+	background-color:;
+	
+	padding: 30px;
+}
+
+#habilidade * {
+	
+	padding-bottom: 5px;
+}
+
+#contato * {
+	background-color: #4957F4;
+}
