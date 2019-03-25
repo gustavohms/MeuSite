@@ -4,21 +4,35 @@
 	color: black;
 	background-color: #E6EBFD;
 	font-family: 'Roboto', sans-serif;
+	
 }
 
 
 .logo{
 	margin-bottom: 0px;
-	
-
 }
 
 .img-fluid{
 	margin-top: 10px;
 }
 
+.ola{
+	font-size:  40px;
+}
+
 .texto1{
-	margin-left: 40px;
+	margin-top: 40px;
+	
+}
+.minha-foto{
+	margin-left:;
+}
+
+#intro * {
+	background-color: #E6EBFD;
+	
+	padding-bottom: 15px;
+	
 }
 
 #inicio *{
@@ -28,16 +42,36 @@
 }
 
 #sobre * {
-	background-color:;
+	background-color:#4957F4;
+	padding-top: 15px;
+	padding-bottom: 15px;
 	
-	padding: 30px;
+
 }
 
-#habilidade * {
-	
-	padding-bottom: 5px;
+#meunome{
+
+	font-size: 20px;
 }
+
+h2{
+	font-size: 45px;
+}
+
+#habilidade {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+
 
 #contato * {
+	
+	
 	background-color: #4957F4;
+}
+
+
+#footer * {
+	background-color: #2B318C;
 }
