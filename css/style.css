@@ -1,8 +1,7 @@
 *{
 	
-	margin-left: : 0px;
+	margin-left: 0 px;
 	color: black;
-	background-color: #E6EBFD;
 	font-family: 'Roboto', sans-serif;
 	
 }
@@ -12,9 +11,7 @@
 	margin-bottom: 0px;
 }
 
-.img-fluid{
-	margin-top: 10px;
-}
+
 
 .ola{
 	font-size:  40px;
@@ -24,26 +21,42 @@
 	margin-top: 40px;
 	
 }
-.minha-foto{
-	margin-left:;
+
+
+
+.capa{
+	display: inline-block;
+	position: relative;
 }
 
-#intro * {
-	background-color: #E6EBFD;
+.textocapa{
+	position: absolute;
+	top: 145px;
+	left: 60px;;
+	font-size: 40px;
+	color: black;
+
+}
+
+
+img.capa{
 	
-	padding-bottom: 15px;
-	
+	object-fit: contain;
 }
 
 #inicio *{
-	background-color: #2B318C;
-	color: white;
+	padding-bottom: 0px;
+	color: black;
 	font-family: 'Roboto', sans-serif;
 }
 
+#intro *{
+	padding-top: 0px;
+}
+
 #sobre * {
-	background-color:#4957F4;
-	padding-top: 15px;
+
+	padding-top: 10px;
 	padding-bottom: 15px;
 	
 
@@ -67,11 +80,10 @@ h2{
 
 #contato * {
 	
-	
-	background-color: #4957F4;
+
 }
 
 
 #footer * {
-	background-color: #2B318C;
+	
 }
